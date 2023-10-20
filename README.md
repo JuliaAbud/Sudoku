@@ -16,3 +16,14 @@ The current Sudoku grid is fixed, this project does not currently generate a pla
 
 ## Framework
 This project uses [Walnut](https://github.com/StudioCherno/Walnut) which itself uses 3rd party libraries as DearImGui
+
+## Screenshots
+![](imgs/MainScreen_Printed.png)
+![](imgs/MainScreen_BeingSolvedInput.png) 
+
+![](imgs/MainScreen_BeingSolved.png) 
+![](imgs/Console_RepresentationGrid.png)
+
+![](imgs/MainScreen_SavedSudoku.png) 
+![](imgs/Console_SolvedRepresentationGrid.png) 
+![](imgs/WinScreen_SolvedSudoku.png) 
