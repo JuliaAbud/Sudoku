@@ -1,6 +1,9 @@
-﻿  SudokuGrid.cpp
+﻿  Bit.cpp
+  SudokuExample.cpp
+  SudokuGrid.cpp
 W:\CppLearning\Walnut\Walnut\Sudoku\SudokuGrid.cpp(135,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 W:\CppLearning\Walnut\Walnut\Sudoku\SudokuGrid.cpp(164,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 W:\CppLearning\Walnut\Walnut\Sudoku\SudokuGrid.cpp(165,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 W:\CppLearning\Walnut\Walnut\Sudoku\SudokuGrid.cpp(190,5): warning C4804: '+=': unsafe use of type 'bool' in operation
+  Generating Code...
   Sudoku.vcxproj -> W:\CppLearning\Walnut\Walnut\x64\Debug\Sudoku.lib
