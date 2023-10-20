@@ -7,12 +7,12 @@ The current Sudoku grid is fixed, this project does not currently generate a pla
 
 ## My files
 1. Main app
-  1. [Main App](WalnutApp/src/WalnutApp.cpp)
+   1. [App.cpp](WalnutApp/src/WalnutApp.cpp)
 1. [Sudoku Framework](Sudoku/)
-  1. [SudokuGrid.cpp](Sudoku/SudokuGrid.cpp)
-  1. [SudokuGrid.h](Sudoku/SudokuGrid.h)
-  1. [Bit.cpp](Sudoku/Bit.cpp)
-  1. [Bit.h](Sudoku/Bit.h)
+   1. [SudokuGrid.cpp](Sudoku/SudokuGrid.cpp)
+   1. [SudokuGrid.h](Sudoku/SudokuGrid.h)
+   1. [Bit.cpp](Sudoku/Bit.cpp)
+   1. [Bit.h](Sudoku/Bit.h)
 
 ## Framework
 This project uses [Walnut](https://github.com/StudioCherno/Walnut) which itself uses 3rd party libraries as DearImGui
